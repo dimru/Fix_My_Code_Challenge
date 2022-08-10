@@ -1,1 +1,1 @@
-a readme file inside 0x00-challenge project
+a readme file inside Fix_My_Code_Challenge repository
